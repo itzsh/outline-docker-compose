@@ -13,7 +13,7 @@ Install a self-hosted [Outline](https://github.com/outline/outline) wiki instanc
 
 1. Initializing the system.
     ```
-    git clone https://github.com/vicalloy/outline-docker-compose.git
+    git clone https://github.com/itzsh/outline-docker-compose.git
     cd outline-docker-compose
     cp scripts/config.sh.sample scripts/config.sh
     # update config file: vim scripts/config.sh
